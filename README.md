@@ -1,8 +1,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [live site URL here](https://mohrajul.github.io/1st/)
+
+- Live Site URL: [live site URL here](https://m-m-h-rupom.github.io/News-homepage/)
 
 
 
