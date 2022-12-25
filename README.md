@@ -1,3 +1,12 @@
+
+### Links
+
+- Solution URL: [Add solution URL here]()
+- Live Site URL: [Add live site URL here](https://mohrajul.github.io/1st/)
+
+
+
+
 # Frontend Mentor - News homepage
 
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
